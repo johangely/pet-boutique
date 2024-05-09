@@ -1,0 +1,186 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.container{
+    width: 100%;
+    padding: 120px 80px;
+    
+}
+
+.fondo-topo{
+    background-image: url("img/banner-topo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.logo-topo{
+    max-width:250px;
+    color:#3c184e;
+    
+}
+
+.nome-pet-shot {
+    font-size: 35px;
+    margin-bottom:5px;
+    color:#3a0e4d;
+}
+
+
+
+.nome-pet-shot img{
+    width:30px;
+    margin-right: 5px;
+}
+
+.nome-slogan{
+    font-size: 14px;
+    text-align: center;
+    margin: 0px;
+    color:#3a0e4d;
+}
+.container-titulo{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px 0 auto;
+    background-color:#ffffffc4;
+    box-shadow: 0px 8px 32px #1f26875e;
+}
+.titulo-topo{
+    font-size: 60px;
+    text-align: center;
+    color:#3c184e;
+    font-weight: 800px;
+    margin: 0  0 40px ;
+}
+
+.link-fale-conosco{
+    width: 250px;
+    padding: 10px 20px;
+    margin:  0 auto;
+    border-radius: 10px;
+    background-color:#3c184e;
+    font-size: 20px;
+    
+}
+
+
+.link-fale-conosco a{
+    color:#ffff;
+
+}
+
+.container-titulo img{
+    width: 20px;
+}
+
+.container{
+    width: 100%;
+    padding: 120px 80px;
+}
+
+h3{
+    font-size: 36px;
+    color:#3c184e;
+    text-align: center;
+    margin: 0 0 45px ;
+}
+.servicios{
+    max-width: 800px;
+    color:#3c184e;
+    margin: 0 auto; 
+}
+.subtitulo{
+    font-weight: 700;
+    font-style: italic;
+}
+
+li {
+    font-size: 20px;
+    margin-top:20px;
+}
+
+.img-servicio {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.img-servicio img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.informacion{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.texto-redsocial{
+    width: 800px;
+    margin:0 auto 50px auto;
+    font-size:40px;
+    color: #ffff;
+    text-align: center;
+}
+
+.red-social {
+    width: 50px;
+    height: 50px; 
+}
+
+a{
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.container .marcas-principales{
+    width: 100px;
+    padding: 120px 80px;
+}
+
+.marcas{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.convenio{
+    height: 148px;
+    width: 148px;
+    margin: 15px;
+}
+p{
+    font-size: 20px;
+    color:#3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+iframe{
+    width: 800px;
+    height: 450px;
+
+    
+}
+.rodape{
+    width: 100%;
+    padding: 20px 0;
+    background-color: #3c184e;
+}
+
+.autor{
+    color:#ffff;
+    font-size:14px;
+    text-align: center;
+}
+
+
+
+
+
